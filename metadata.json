@@ -1,0 +1,7 @@
+{
+  "name": "SmartCatalog Pro",
+  "description": "A high-end mobile-first product catalog and ordering system featuring grid browsing, category-based discovery, barcode scanning simulation, and an integrated shopping cart.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
